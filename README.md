@@ -126,7 +126,7 @@ Analytical Thinking
 Data Storytelling
 
 ⚙️ How to Run
-git clone https://github.com/bhupender5/pizza-hut-dashboard.git
+https://github.com/bhupender5/Pizza-Hut-Sales-Dashboard/tree/main
 
 
 Open .pbix / .twbx
@@ -205,10 +205,6 @@ Dynamic drill-down visuals
 
 🖼 Dashboard Preview
 Sales & Revenue Analysis
-
-Trends & Category Insights
-
-(Place screenshots inside an images folder)
 
 🛠 Tech Stack
 Tool	Purpose
